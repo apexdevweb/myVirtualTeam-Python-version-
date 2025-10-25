@@ -1,0 +1,2 @@
+APP_NAME = "Mon Bot IA"
+APP_VERSION = "1.0.0"
